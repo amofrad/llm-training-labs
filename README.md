@@ -1,5 +1,7 @@
 # LLM Training Labs
 
+[Ali Kaazempur-Mofrad](https://alimofrad.com), Department of Statistics and Data Science, UCLA.
+
 Python labs on how large language models are trained and used, built step by step from the underlying probability and loss calculations. I developed these labs for the discussion sections of STATS 425 (*Large Language Models in Text Mining*) at UCLA in Fall 2026.
 
 Every notebook runs in Google Colab on a standard CPU runtime; no GPU or account setup is required.
@@ -26,5 +28,3 @@ Weeks 1–3 use the pretrained [DistilGPT2](https://huggingface.co/distilbert/di
 pip install torch transformers jupyter
 jupyter notebook
 ```
-
-[Ali Kaazempur-Mofrad](https://alimofrad.com), Department of Statistics and Data Science, UCLA.
