@@ -2,7 +2,7 @@
 
 Python labs on how large language models are trained and used, built step by step from the underlying probability and loss calculations. I developed these labs for the discussion sections of STATS 425 (*Large Language Models in Text Mining*) at UCLA in Fall 2026.
 
-Each lab builds on the previous one: students compute quantities by hand, predict how a computational choice will change model behavior, run the code to test the prediction, and explain what the results support. Every notebook runs in Google Colab on a standard CPU runtime; no GPU or account setup is required.
+Every notebook runs in Google Colab on a standard CPU runtime; no GPU or account setup is required.
 
 ## Labs
 
@@ -26,9 +26,5 @@ Weeks 1–3 use the pretrained [DistilGPT2](https://huggingface.co/distilbert/di
 pip install torch transformers jupyter
 jupyter notebook
 ```
-
-Each lab ends with review questions and answers that can be opened after discussion.
-
-## Author
 
 [Ali Kaazempur-Mofrad](https://alimofrad.com), Department of Statistics and Data Science, UCLA.
