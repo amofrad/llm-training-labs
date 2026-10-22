@@ -1,6 +1,5 @@
 # LLM Training Labs
 
-[Ali Kaazempur-Mofrad](https://alimofrad.com), Department of Statistics and Data Science, UCLA.
 
 Python labs on how large language models are trained and used, built step by step from the underlying probability and loss calculations. I developed these labs for the discussion sections of STATS 425 (*Large Language Models in Text Mining*) at UCLA in Fall 2026.
 
